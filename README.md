@@ -1,4 +1,4 @@
-<h3 style="color:white">¡WLCOME TO MY REPOSITORY!</h3>
+<span style="color:white">¡WLCOME TO MY REPOSITORY!</span>
 
 [![Banner web](./banner.png)](https://jonathanluher.github.io/)
 
