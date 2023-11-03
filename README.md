@@ -1,4 +1,6 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>¡WLCOME TO MY REPOSITORY!</h2>
+<class="banner" align="center">
+<h2>¡WLCOME TO MY REPOSITORY!</h2>
+</class=>
 
 [![Banner web](./banner.png)](https://jonathanluher.github.io/)
 
