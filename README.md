@@ -2,7 +2,7 @@
 
 [![Banner web](./banner.png)](https://jonathanluher.github.io/)
 
-### About me
+### 👨🏻‍💻 &nbsp;About Me
 #### I'm a computer systems engineer with experience in web development (backend/frontend),  with knowledge in different frameworks like materialize and bootstrap.
 #### I have worked with some type of databases like SQL, JSON, XML and CQL. It consisted in his analysis, design, creation and update of the database.
 
