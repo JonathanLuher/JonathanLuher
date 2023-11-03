@@ -1,6 +1,4 @@
-<class="banner" align="center">
-<h2>¡WLCOME TO MY REPOSITORY!</h2>
-</class=>
+<h3>¡WLCOME TO MY REPOSITORY!</h3>
 
 [![Banner web](./banner.png)](https://jonathanluher.github.io/)
 
