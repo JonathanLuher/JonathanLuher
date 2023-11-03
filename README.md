@@ -1,4 +1,4 @@
-## <span style="color:white">¡WLCOME TO MY REPOSITORY!</span>
+<span style="color:white">¡WLCOME TO MY REPOSITORY!</span>
 
 [![Banner web](./banner.png)](https://jonathanluher.github.io/)
 
