@@ -1,6 +1,6 @@
 <span style="color:white" font-size:12em>**¡WELCOME TO MY REPOSITORY!**</span>
 
-[![Banner web](./banner_2.png)](https://jonathanluher.github.io/)
+[![Banner web](./banner_2.jpg)](https://jonathanluher.github.io/)
 
 👨🏻‍💻 &nbsp; <span style="color:white" font-size:6em>**About Me**</span><br>
 <span style="color:white"> I'm a computer systems engineer with experience in front-end and UX development using frameworks such as React and Angular, based on functional
