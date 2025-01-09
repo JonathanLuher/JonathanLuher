@@ -3,7 +3,7 @@
 [![Banner web](./banner.png)](https://jonathanluher.github.io/)
 
 👨🏻‍💻 &nbsp; <span style="color:white" font-size:6em>**About Me**</span><br>
-<span style="color:white"> I'm a computer systems engineer with experience in front-end and UX development using frameworks such as React and Materialize, based on functional
+<span style="color:white"> I'm a computer systems engineer with experience in front-end and UX development using frameworks such as React and Angular, based on functional
 requirements and applying agile methodologies (SCRUM,Kanban).</span><br>
 <span style="color:white">I have worked with some type of databases like SQL and NoSQL databases. It consisted in his analysis, design, creation and update of the database.</span><br><br>
 
