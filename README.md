@@ -3,7 +3,7 @@
 [![Banner web](./banner_2.jpg)](https://jonathanluher.github.io/)
 
 👨🏻‍💻 &nbsp; <span style="color:white" font-size:6em>**About Me**</span><br>
-<span style="color:white"> I'm a computer systems engineer, data science enthusiast with solid knowledge of Big Data algorithms, including ID3, KNN, K-means, Naive Bayes with its aplication using pyspark.</span><br>
+<span style="color:white"> I'm a computer systems engineer and data science enthusiast with solid knowledge of Big Data algorithms, including ID3, KNN, K-means, Naive Bayes with its aplication using pyspark.</span><br>
 <span style="color:white">I have experience in front-end and UX development using frameworks such as React and Materialize, based on functional requirements, UML diagrams and applying agile methodologies (SCRUM,Kanban).</span><br><br>
 
 
