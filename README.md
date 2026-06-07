@@ -3,7 +3,7 @@
 [![Banner web](./banner_2.jpg)](https://jonathanluher.github.io/)
 
 ## 🎯 **About Me**
-Focus on Data Science and Engineering. Experience in data pipeline design, Machine Learning model implementation, and ETL process automation. Interested in handling large volumes of data (Big Data) and using Google Cloud Platform (GCP).
+Software Engineer with strong foundations in computer science and experience building backend services, web applications, and data processing pipelines. Proficient in Python, JavaScript, SQL, and Linux-based environments. Experienced with Git-based collaboration, Agile workflows, and modern software development practices. Motivated to grow as a software engineer and contribute to scalable software systems.
 
 This repository showcases my technical skills through various projects, including academic work from my computer systems engineering degree. You'll find implementations ranging from ML/NLP models to distributed systems and compilers, demonstrating my versatility across the data and software development spectrum.
 
